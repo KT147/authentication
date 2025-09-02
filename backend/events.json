@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M%C3%BCnchen_Panorama.JPG/1024px-M%C3%BCnchen_Panorama.JPG",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"sfassfafa","image":"http://s.com","date":"0353-05-31","description":"fggdgd","id":"ec4798eb-ad8a-44a7-b010-526219705960"}],"users":[{"email":"test@test.com","password":"$2a$12$nQGx7PtLFPhFwnQaoy1nxehFSJcNACVi8t69T6us445XxeSEYDMPy","id":"03453835-13a0-48be-bde4-d6614fbf2ee1"},{"email":"test@test.comm","password":"$2a$12$yHw/uJQSZat/GZXyprb3eO.HSZaRRPrOLC0qp1r9.JUQG/gsBqvUq","id":"e3aef899-5d0a-44e9-9baa-04a28d26ec5b"}]}
